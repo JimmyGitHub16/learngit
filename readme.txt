@@ -6,3 +6,4 @@ test conflict.
 master
 b1
 dev
+fixed
