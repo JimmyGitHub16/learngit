@@ -5,3 +5,4 @@ test conflict 2
 test conflict.
 master
 b1
+dev
